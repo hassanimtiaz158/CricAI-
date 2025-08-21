@@ -1,0 +1,21 @@
+player_name,matches,runs,strike_rate,wickets,economy,opposition,venue,performance_score
+Virat Kohli,250,12000,92.3,0,0.0,AUS,Delhi,85
+Rohit Sharma,230,9000,89.5,0,0.0,ENG,Mumbai,80
+Babar Azam,150,7500,88.0,0,0.0,IND,Karachi,83
+Steve Smith,160,8000,86.2,0,0.0,NZ,Sydney,82
+Kane Williamson,180,7000,83.5,0,0.0,PAK,Wellington,81
+David Warner,190,6500,90.0,0,0.0,SA,Melbourne,79
+Ben Stokes,140,4500,87.5,75,6.5,WI,London,77
+MS Dhoni,350,10500,85.0,10,5.5,SL,Chennai,84
+Hardik Pandya,120,3000,95.0,55,7.2,BAN,Ahmedabad,75
+Jasprit Bumrah,100,300,65.0,200,4.5,AUS,Delhi,88
+Rashid Khan,110,1000,100.5,150,6.2,IND,Kabul,86
+Trent Boult,150,500,85.5,180,5.0,ENG,Auckland,82
+Mitchell Starc,140,800,87.2,210,5.3,NZ,Perth,85
+Shakib Al Hasan,220,6000,82.1,280,4.8,PAK,Dhaka,83
+Joe Root,180,8500,84.5,15,6.0,WI,Leeds,80
+KL Rahul,140,5000,90.2,5,6.8,SA,Bangalore,78
+Faf du Plessis,200,7000,88.3,20,6.2,SL,Cape Town,79
+Quinton de Kock,170,6500,91.0,0,0.0,BAN,Johannesburg,81
+Andre Russell,160,3500,160.0,120,8.5,AUS,Kingston,84
+Shreyas Iyer,100,2800,87.1,10,6.7,ENG,Kolkata,76
